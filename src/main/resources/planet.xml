@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<planet>
+    <name>Earth</name>
+    <planet_from_sun>3</planet_from_sun>
+    <moons>9</moons>
+</planet>
